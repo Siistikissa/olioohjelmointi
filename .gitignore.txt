@@ -5,5 +5,5 @@
 !*/
 
 # Unignore source code files
-!source/**/*.c
+!source/**/*.cpp
 !source/**/*.h
