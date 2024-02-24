@@ -1,0 +1,9 @@
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/teht_6.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/install.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/install/local.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/install/strip.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/teht_6_autogen_timestamp_deps.dir
+C:/Users/Vekka/Documents/Koodi/Oliot/olioohjelmointi/teht_6/build-teht_6-Unnamed-Debug/CMakeFiles/teht_6_autogen.dir
